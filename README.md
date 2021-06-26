@@ -1,3 +1,3 @@
 # Pr1
-for training
-this section is aded fro the RStudio desktop 
+#Originally writen by Dr Armin Saed-Moucheshi in june 2021
+Use MCtrt for performing the CRD in this package
