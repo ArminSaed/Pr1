@@ -1,7 +1,7 @@
 library(agricolae)
 library(readxl)
 df <- read_excel(file.choose(), sheet=1)
-View(df)
+View(df)       #
 #====@====@====@===@===@===@===@===@===@===@===@===@===@===")
 
 MCt <- function(df){
